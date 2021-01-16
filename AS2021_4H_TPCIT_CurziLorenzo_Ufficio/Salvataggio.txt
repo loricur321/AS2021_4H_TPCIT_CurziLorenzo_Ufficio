@@ -1,0 +1,18 @@
+
+
+Salvataggio 16/01/2021 16:28:59
+
+Numero pratica : 	1
+Tipologia pratica: 	A
+Cliente: 		Mario Rossi
+Descrizione pratica: 	Pratica di prova
+
+Numero pratica : 	2
+Tipologia pratica: 	B
+Cliente: 		Mario Verdi
+Descrizione pratica: 	Altra pratica
+
+Numero pratica : 	3
+Tipologia pratica: 	A
+Cliente: 		Giuseppe Verdi
+Descrizione pratica: 	Pratica
